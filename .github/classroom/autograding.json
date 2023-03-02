@@ -16,7 +16,7 @@
       "run": "cat .github/script/STEP",
       "input": "",
       "output": "^[^01]+$",
-      "comparison": "included",
+      "comparison": "regex",
       "timeout": 10,
       "points": 10
     },
